@@ -1,5 +1,8 @@
 # mng-thoughts
 
+Screenrecording video - https://drive.google.com/file/d/1qUN2n0mtjQp2qwOIlRyeLU0aPK2f6ShU/view?usp=sharing
+
+
 This is a simple guide on how to use this API app . This API is built to handle large amounts of unstructured data using a NoSQL database.
 
 ## Usage
